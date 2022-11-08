@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Student</title>
+<title>Student Form</title>
 </head>
 <body>
 

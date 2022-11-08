@@ -73,23 +73,4 @@ public class SpringWebSecurityConfig extends WebSecurityConfigurerAdapter{
 	@Autowired
 	private UserRepo userRepo;
 	
-//	@Bean
-//	public void addData()
-//	{
-//		Role r1 = new Role();
-//		r1.setName("USER");
-//		r1.setId(1);
-//		Role r2 = new Role();
-//		r2.setId(2);
-//		r2.setName("ADMIN");
-//		roleRepo.save(r1);
-//		roleRepo.save(r2);
-//		
-//		User u1 = new User(1, "shalini", encoder().encode("shalini123"), Arrays.asList(r1));
-//		User u2 = new User(2, "admin", encoder().encode("admin123"), Arrays.asList(r1, r2));
-//		
-//		userRepo.save(u1);
-//		userRepo.save(u2);
-//		
-//	}
 }

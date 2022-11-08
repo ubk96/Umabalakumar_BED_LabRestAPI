@@ -50,7 +50,7 @@
 		</form>
 
 		<hr>
-		<a href="/api/students/fecthAllStudents">Back to Students List</a>
+		<a href="/api/students/fecthAllStudents">Students List</a>
 
 	</div>
 
